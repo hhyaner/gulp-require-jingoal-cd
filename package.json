@@ -1,0 +1,75 @@
+{
+  "_args": [
+    [
+      "gulp-require-jingoal@latest",
+      "/home/calendar/gulp"
+    ],
+    [
+      "gulp-require-jingoal@latest",
+      "/home/system"
+    ]
+  ],
+  "_from": "gulp-require-jingoal@latest",
+  "_id": "gulp-require-jingoal@1.0.12",
+  "_inCache": true,
+  "_location": "/gulp-require-jingoal",
+  "_nodeVersion": "4.4.2",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/gulp-require-jingoal-1.0.12.tgz_1463386758429_0.2901418679393828"
+  },
+  "_npmUser": {
+    "name": "lirongfei123",
+    "email": "lirongfei985@gmail.com"
+  },
+  "_npmVersion": "2.15.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "gulp-require-jingoal",
+    "raw": "gulp-require-jingoal@latest",
+    "rawSpec": "latest",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_shrinkwrap": null,
+  "_spec": "gulp-require-jingoal@latest",
+  "_where": "/home/system",
+  "author": {
+    "name": "985867294@qq.com"
+  },
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.1",
+    "uglify-js": "^2.6.2",
+    "upath": "^0.1.7"
+  },
+  "description": "jingoal 打包工具",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "48ff566410f1dbb6ec268ef5411576f014b3c9cb",
+    "tarball": "https://registry.npmjs.org/gulp-require-jingoal/-/gulp-require-jingoal-1.0.12.tgz"
+  },
+  "installable": true,
+  "license": "ISC",
+  "main": "pack.js",
+  "maintainers": [
+    {
+      "name": "lirongfei123",
+      "email": "lirongfei985@gmail.com"
+    }
+  ],
+  "name": "gulp-require-jingoal",
+  "optionalDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.12",
+  "_shasum": "48ff566410f1dbb6ec268ef5411576f014b3c9cb",
+  "_resolved": "https://registry.npmjs.org/gulp-require-jingoal/-/gulp-require-jingoal-1.0.12.tgz",
+  "readme": "ERROR: No README data found!"
+}
