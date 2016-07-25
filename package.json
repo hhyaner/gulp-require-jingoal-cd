@@ -68,7 +68,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.0.12",
+  "version": "1.0.13",
   "_shasum": "48ff566410f1dbb6ec268ef5411576f014b3c9cb",
   "_resolved": "https://registry.npmjs.org/gulp-require-jingoal/-/gulp-require-jingoal-1.0.12.tgz",
   "readme": "ERROR: No README data found!"
